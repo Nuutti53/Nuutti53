@@ -1,6 +1,6 @@
 ## Hi there 👋
   - 🔭 I’m currently studying in University of Oulu
-  - 🌱 I’m currently learning C/C++
+  - 🌱 I’m currently learning C/C++, Java
 
 <!--
 **Nuutti53/Nuutti53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
